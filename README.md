@@ -7,7 +7,6 @@ Olá, tudo bem? Eu me chamo Lucas Oliveira!
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lucas-OSousa&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Lucas-OSousa/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-OSousa&hide_progress=true&theme=dark#gh-dark-mode-only)](https://github.com/Lucas-OSousa/github-readme-stats)
-<img src="https://raw.githubusercontent.com/Lucas-OSousa/Lucas-OSousa/output/github-contribution-grid-snake.svg" />
 
 <div style="display: inline_block"><br>
 <div style="display: inline_block">
