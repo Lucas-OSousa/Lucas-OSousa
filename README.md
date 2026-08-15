@@ -1,6 +1,6 @@
 Olá, tudo bem? Eu me chamo Lucas Oliveira! 
 
-- 🧑‍💻 Iniciando na carreira Front-End
+- 🧑‍💻 Iniciando na carreira Front-End e cursando Ads
 - 📚 Estudando HTML5, CSS, JavaScript
 - 📧 E-mail para contato: Lucas.365d@gmail.com 
 - ☕ Apaixonado por tecnologia e um bom café 
